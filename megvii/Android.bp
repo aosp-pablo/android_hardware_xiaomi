@@ -13,11 +13,11 @@ cc_defaults {
 }
 
 cc_library_shared {
-    name: "libMegviiFacepp-0.5.2",
+    name: "libMegviiFacepp-0.5.2_1",
     defaults: ["libMegviiFacepp_defaults"],
 }
 
 cc_library_shared {
-    name: "libmegface",
+    name: "libmegface_1",
     vendor: true,
 }
